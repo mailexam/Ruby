@@ -161,3 +161,7 @@ In tests you can use `delivery_method = :test` and `ActionMailer::Base.deliverie
 - [Django reference implementation](https://github.com/mailexam/Django) — similar approach via built-in mailer
 - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0
