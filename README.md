@@ -158,7 +158,8 @@ In tests you can use `delivery_method = :test` and `ActionMailer::Base.deliverie
 ## See also
 
 - [Mailexam Ruby on Rails guide (wiki)](https://wiki.mailexam.ru/en/examples/rails/)
-- [Django reference implementation](https://github.com/mailexam/Django) — similar approach via built-in mailer
+- [Sidekiq reference implementation](https://github.com/mailexam/Sidekiq) — background mail via Sidekiq worker
+- [Celery reference implementation](https://github.com/mailexam/Celery) — background mail in Python
 - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
 - [Mailexam API documentation](https://mailexam.io/api)
 
